@@ -1,10 +1,8 @@
-# advanced-export
-Advanced Export for WordPress
 === Advanced Export for WP & WPMU ===
 Contributors: wpmuguru
 Tags: export, wordpress, wpmu, multisite 
 Requires at least: 2.7
-Tested up to: 4.3
+Tested up to: 4.8.1
 Stable tag: trunk
 
 Adds an Advanced Export to the Tools menu which allows selective exporting of pages, posts, specific categories and/or post statuses by date.
